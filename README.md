@@ -1,6 +1,6 @@
-# [Jakarta Grundkurs]
+# Jakarta Grundkurs
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs [Jakarta Grundkurs]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs Jakarta Grundkurs. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 [![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
 
