@@ -24,16 +24,13 @@ Alle Inhalte sind direkt im `master`-Branch abgelegt.
    - `mvn package`
    - `cp target/example.war $GLASSFISH_HOME/domains/domain1/autodeploy/   
 
-## Über den Autor - Kevin Wittek
-Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
-
-### Instructor
+### Autor
 
 **Kevin Wittek**
 
 _Software Engineer, Coach & Trainer_
 
-[LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
+Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
 
 [lil-course-url]: https://www.linkedin.com/learning/jakarta-ee-grundkurs/cloud-native-enterprise-anwendungen-mit-jakarta-ee-entwickeln
 [lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE2fYNqvjmHTA/learning-public-crop_675_1200/0/1644313660150?e=1644919200&v=beta&t=pLETuyT9InDBTpadASWzmyCq_FMuRngy9WpgEaNxDP8
