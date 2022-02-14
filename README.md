@@ -1,10 +1,10 @@
 # Jakarta Grundkurs
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs Jakarta Grundkurs. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Jakarta Grundkurs`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
+![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Jakarta EE ist der Nachfolger von Java EE (Enterprise Edtion) und stellt eine Erweiterung der Programmiersprache Java zur Entwicklung von Cloud Native Enterprise-Anwendungen dar. Dieses Videotraining vermittelt Ihnen die Grundlagen, um selbständig eigene Jakarta-EE- Projekte umzusetzen: Zunächst lernen Sie die wichtigsten Komponenten der Jakarta-Plattform kennen und sehen, was es heißt, ein Projekt von Java EE zu Jakarta EE zu migrieren. Sie implementieren REST-Web-Services mit JAX-RS und JSON-B und lernen, wie sie mithilfe von CDI Dependency Injection und Inversion of Control unkompliziert umsetzen können.  Anhand von Code-Challenges am Ende jeden Kapitels können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der von Ihrem Trainer angebotenen Solution vergleichen.
 
 ## Anleitung
 
@@ -34,3 +34,6 @@ Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/in
 _Software Engineer, Coach & Trainer_
 
 [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
+
+[lil-course-url]: https://www.linkedin.com/learning/jakarta-ee-grundkurs/cloud-native-enterprise-anwendungen-mit-jakarta-ee-entwickeln
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE2fYNqvjmHTA/learning-public-crop_675_1200/0/1644313660150?e=1644919200&v=beta&t=pLETuyT9InDBTpadASWzmyCq_FMuRngy9WpgEaNxDP8
