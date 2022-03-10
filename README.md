@@ -33,4 +33,4 @@ _Software Engineer, Coach & Trainer_
 Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
 
 [lil-course-url]: https://www.linkedin.com/learning/jakarta-ee-grundkurs/cloud-native-enterprise-anwendungen-mit-jakarta-ee-entwickeln
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE2fYNqvjmHTA/learning-public-crop_675_1200/0/1644313660150?e=1644919200&v=beta&t=pLETuyT9InDBTpadASWzmyCq_FMuRngy9WpgEaNxDP8
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE2fYNqvjmHTA/learning-public-crop_675_1200/0/1644313660150?e=1646964000&v=beta&t=HdpNZ91GZvxeoyLjm_T26HMl7P1KzCcQo-2u_xFYssU
